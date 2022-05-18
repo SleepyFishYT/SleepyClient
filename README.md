@@ -1,6 +1,6 @@
 # SleepyClient
-A Minecraft Java    1.8 Hacked Client (v1.0-v1.2)                                                                                                       
-A Minecraft Java 1.12.2 Hacked Client (v1.3-ver.Last)                                                                                                       
+A Minecraft Java  - 1.8 Hacked Client (v1.0-v1.2)                                                                                                       
+A Minecraft Java 1.12.2 Hacked Client (v1.3-v.Last)                                                                                                       
                                                                                                        
                                                                                                        
                                                                                                        
